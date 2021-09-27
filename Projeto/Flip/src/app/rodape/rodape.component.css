@@ -1,0 +1,22 @@
+.rodape {
+	width: 100%;
+	color: rgb(255, 255, 255);
+	height: 20px;
+	text-align: center;
+	background-color: #495057 ;
+	position: fixed;
+	bottom:0;
+	left:0;
+
+  }
+
+  #rodape {
+	width: 100%;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	background-color: #495057 ;
+	position: fixed;
+	bottom:0;
+	left:0;
+
+  }
