@@ -1,7 +1,8 @@
-/* tslint:disable:no-unused-variable */
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { By } from '@angular/platform-browser';
 import { DebugElement } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+
 
 import { ProdutosComponent } from './produtos.component';
 
