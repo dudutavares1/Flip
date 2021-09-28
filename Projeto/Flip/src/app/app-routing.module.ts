@@ -12,7 +12,7 @@ const routes: Routes = [
   { path: 'rodape', component: RodapeComponent },
   { path: 'produtos', component: ProdutosComponent },
   { path: 'cadastro', component: CadastroClienteComponent },
-  { path: 'cadastro', component: HomeComponent },
+  
 ];
 
 @NgModule({
